@@ -11,7 +11,7 @@ A clean and modern coffee shop website featuring a selection of the finest coffe
 - [Contact](#contact)
 
 ## 🌐 Demo
-You can view a live demo of the project [here](https://yourwebsite.com)
+You can view a live demo of the project [here]([https://yourwebsite.com](https://jiyathakur29.github.io/LASCOFFEE/))
 
 ## ✨ Features
 - **Responsive Design**: Works well on various devices.
@@ -35,5 +35,3 @@ To get started with this project, follow these steps:
     ```
 
 3. Open `index.html` in your browser to view the site.
-
-## 📁 Folder Structure
